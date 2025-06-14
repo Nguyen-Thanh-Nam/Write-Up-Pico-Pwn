@@ -1,4 +1,3 @@
-# Write-Up-Pico-Pwn
 # PICO CTF 2025 
 
 ## PWN
